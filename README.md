@@ -4,7 +4,7 @@ ROS2, 임베디드 시스템, 자율주행 로봇, STM32 기반 제어 시스템
 
 ## Portfolio PDF
 
-[포트폴리오 PDF 보기](./LimCheongsu_Portfolio.pdf)
+[포트폴리오 PDF 보기](./포트폴리오_임청수_최종.pdf)
 
 ## Main Projects
 
